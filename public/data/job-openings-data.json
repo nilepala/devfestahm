@@ -1632,6 +1632,55 @@
           "experience": "5 Years"
         }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "Narola Infotech Solutions LLP",
+      "location": "Surat, India",
+      "bio": "Narola Infotech , the name itself represents our identity of \"Solutions Innovators\", who believe in \"Providing Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering web and mobile applications, eCommerce stores, healthcare, cybersecurity and industry-wise innovation. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
+      "companyLogoUrl": "https://www.narolainfotech.com/wp-content/uploads/2022/09/nisl-logo.svg",
+      "companyWebsite": "https://www.narolainfotech.com//",
+      "companyCareerPage": "https://www.narolainfotech.com/careers//",
+      "linkedin": "https://www.linkedin.com/company/narola-infotech/",
+      "hiringImageUrl": "https://www.narolainfotech.com/wp-content/uploads/2022/12/Narola-2023-Hiring.jpg",
+      "openings": [
+        {
+          "title": "Wordpress Developer",
+          "count": 1,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "NodeJS Developers",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Sr. Software Engineer",
+          "count": 4,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Dot Net Developer",
+          "count": 1,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Technical Leader",
+          "count": 1,
+          "experience": "8+ Years experience"
+        },
+        {
+          "title": "Business Development Associate",
+          "count": 2,
+          "experience": "8+ Years experience"
+        }
+      ]
     }
+
   ]
 }
